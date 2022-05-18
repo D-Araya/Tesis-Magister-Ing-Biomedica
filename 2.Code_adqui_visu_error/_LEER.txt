@@ -1,0 +1,12 @@
+Códigos utilizados:
+
+Espiral_2D_G_code-CNC: Se usó para generar los datos de espiral para la fresadora.
+
+Tool_adquisicion: Se usó para adquirir datos del puntero de madera.
+
+Visualizacion: Se usó para crear ambiente 3D para visualizar los datos adquiridos en pyqtgraph.
+
+ERROR_3D: Se usó para realizar la transformación afín y obtener el error 3D.
+
+Hand_adquisicion:Se usa para adquirir datos de movimientos de la mano configurado para dedo medio, si lo configura para dedo indice es como se uso para el estudio de caso.
+

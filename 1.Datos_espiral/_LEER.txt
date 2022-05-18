@@ -1,0 +1,22 @@
+Cada carpeta contiene 10 señales de espiral (total 80).
+
+1-ESPIRALsinZ
+
+Contiene datos de espiral con eje Z en 0; tres tipos distintos de espiral
+
+
+2-ESPIRALconZ
+
+Contiene datos de espiral con eje Z en distintos grados de "inclinación" (10, 15, 20, 30), con 
+origen igual al de la espiral ideal.
+
+
+
+3-ESPIRALconZyDesplazamiento
+
+Contiene datos de espiral con eje Z en 30 grados de "inclinación" y dezplazamiento de 200mm 
+sobre el origen de la espiral ideal.
+
+4-EstudioDeCaso
+
+Contiene datos de espiral de estudio de caso.
